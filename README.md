@@ -1,2 +1,3 @@
 # hello-world
 Practice practice practice
+My name’s Brady and I work at enabling the mission success with data & analytics. I’m also a former US Army Infantry and Special Forces Officer with service as a leader, operations officer, planner and advisor across Iraq, Afghanistan, Africa and South Asia. After leaving the Army in 2011 I earned my MBA at Penn State’s Smeal College and worked as an IBM Cognitive Solutions Leader covering analytics and AI in national security. My interests include reading, the outdoors, running and food. I’m the Junior Vice Commander of VFW Post 2906 in Pompton Lakes, New Jersey and Cofounder of the Special Forces Association Chapter 58 in New York City.
